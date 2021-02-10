@@ -1,6 +1,5 @@
 /*
-Name : Cian Dunne
-Student Number: 20091471
+First Assignment created for the Term 1 Programming Module of the Computer Science Higher Diploma Course
 
 Brief description of the animation achieved:
 Interactive Valentine's Day eCard starring "Frankie the Lovesick Robot".
