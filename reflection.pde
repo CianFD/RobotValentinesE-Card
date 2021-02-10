@@ -1,9 +1,5 @@
 /* Reflection
 
-Name : Cian Dunne
-
-Student Number: 20091471
-
 Part A - Mark (5 /5)
 -----------------------------
 
